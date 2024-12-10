@@ -16,12 +16,12 @@ nltk = "*"
 fastapi = "*"
 jinja2 = "*"
 uvicorn = "*"
-streamlit = "*"
-streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
 langchain-community = "*"
 python-dotenv = "*"
+streamlit = "*"
+streamlit-chat = "*"
 
 [dev-packages]
 
